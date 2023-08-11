@@ -13,7 +13,8 @@ This is a simple note-taking web application built with React.
 
 ## References
 
-![](refer1.png)
-![](refer2.png)
-![](refer3.png)
+![reference image](src/images/img1.png)
+![reference image](src/images/img2.png)
+![reference image](src/images/img3.png)
+
 
